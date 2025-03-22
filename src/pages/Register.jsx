@@ -76,7 +76,7 @@ function Register() {
   );
   return (
     <>
-      <div className="w-full right-0 lg:px-10 px-4 py-2 cursor-pointer bg-white shadow">
+      <div className="sticky top-0 w-full right-0 lg:px-10 px-4 py-2 cursor-pointer bg-white shadow z-[1000]">
           <div className="flex justify-between items-center">
               <div className="flex justify-center gap-4 items-center">
                   <img className="rounded-full w-16 h-16" src="https://i0.wp.com/radarmandalika.id/wp-content/uploads/2021/06/F-Lalu-firman-Wijaya.jpeg?w=639&ssl=1" />
